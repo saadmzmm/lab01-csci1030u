@@ -12,4 +12,4 @@ Answer those in Canvas - this file only needs the three lines above.
 
 Do not add your student number, address, or phone number here. This repository is public.
 
-- **My goal for this course::** is to improve this year, get higher grades obviously but along with that I wanna make sure I understand everything I learn so I can properly use it in the future for jobs and projects.
+- **My goal for this course:** is to improve this year, get higher grades obviously but along with that I wanna make sure I understand everything I learn so I can properly use it in the future for jobs and projects.
